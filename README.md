@@ -72,7 +72,7 @@ Features included:
 # 📂 Project Structure
 
 ```bash
-notes-app/
+Notes-App-Screen-UI/
 │
 ├── app/
 │   ├── _layout.tsx
@@ -108,7 +108,7 @@ git clone https://github.com/SUSHRUTO/Notes-App-Screen-UI
 ## 2️⃣ Navigate to Project Folder
 
 ```bash
-cd notes-app
+cd Notes-App-Screen-UI
 ```
 
 ---
